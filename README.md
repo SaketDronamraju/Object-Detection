@@ -1,4 +1,4 @@
-#**YOLOv8 Object Detection using Opencv**#
+**YOLOv8 Object Detection using Opencv**
 
 YOLOv8, also known as "You Only Look Once version 8," stands as a pinnacle in the field of object detection, combining speed and accuracy to provide cutting-edge performance. As part of the YOLO family, YOLOv8 shares the fundamental principle of processing entire images in a single pass of a convolutional neural network (CNN), enabling real-time detection of objects within images and videos.
 
